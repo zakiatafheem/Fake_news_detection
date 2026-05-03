@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 This project is a Natural Language Processing (NLP)-based Fake News Detection system that classifies news articles as REAL or FAKE using machine learning techniques.
-It uses TF-IDF vectorization for feature extraction and a Linear Support Vector Machine (SVM) for classification.
+It uses TF-IDF vectorization for feature extraction.
 
 
 
