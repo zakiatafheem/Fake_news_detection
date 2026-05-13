@@ -84,9 +84,9 @@ Accuracy: 0.99
 
 ### Images
 
-[HOME PAGE](home.png)
-[REAL NEWS PAGE](real news.png)
-[FAKE NEWS PAGE](fake news.png)
+-[HOME PAGE](home.png)
+-[REAL NEWS PAGE](real news.png)
+-[FAKE NEWS PAGE](fake news.png)
 
 ---
 
